@@ -30,12 +30,12 @@ public class Datatypes {
 		char c1='S';
 		System.out.println("Value of c1="+c1);
 		
-		
-		
 		//Nonprimitive Datatypes
 		
 		String s1="Hello";
 		System.out.println("Value of s1="+s1);
+
+		hello
 		
 
 	}
